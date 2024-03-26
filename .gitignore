@@ -1,0 +1,8 @@
+*~
+*#
+*.zip
+files
+include.list
+make-dist.sh
+test.php
+
